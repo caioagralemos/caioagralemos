@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/i5Uejlk.png" min-width="155px" max-width="155px" width="155px" align="right" alt="Programador">
+<img src="https://i.imgur.com/i5Uejlk.png" min-width="18%" max-width="18%" width="18%" align="right" alt="Programador">
 <p align="left"> 
   <h1>Bem vindo! Eu sou o Caio 👋</h1>
 </p>
