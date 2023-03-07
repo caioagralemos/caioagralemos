@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">  
-  <img width="42%" height="195px" src=http://github-readme-stats-caioagralemos.vercel.app/api?username=caioagralemos&show_icons=true&count_private=true&hide_border=true" alt="Caio Lemos Github Stats" /> 
+  <img width="42%" height="195px" src=http://github-readme-stats-caioagralemos.vercel.app/api?username=caioagralemos&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Caio Lemos Github Stats" /> 
   <img width="34%" height="195px" src="http://github-readme-stats-caioagralemos.vercel.app/api/top-langs/?username=caioagralemos&layout=compact&hide_border=true" />
 </p>
 
