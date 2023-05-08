@@ -4,8 +4,8 @@
 </p>
 
 <p align="left"> 
-* Especializado em Python e Swift 🧑🏻‍💻<br>
-* Aprendendo desenvolvimento web 🌱<br>
+* Python, Swift, HTML/CSS/JS 🧑🏻‍💻<br>
+* Aprendendo React! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
