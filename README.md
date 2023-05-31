@@ -4,8 +4,8 @@
 </p>
 
 <p align="left"> 
-* Python, Swift, HTML/CSS/JS 🧑🏻‍💻<br>
-* Aprendendo React! 🌱<br>
+* React, HTML/CSS/JS, Python e Swift 🧑🏻‍💻<br>
+* Aprendendo Typescript e Flutter (Dart)! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
