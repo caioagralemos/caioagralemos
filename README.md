@@ -5,7 +5,7 @@
 
 <p align="left"> 
 * React, HTML/CSS/JS, Python e Swift 🧑🏻‍💻<br>
-* Aprendendo Typescript e Flutter (Dart)! 🌱<br>
+* Aprendendo Typescript, Data Structures e Flutter (Dart)! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
