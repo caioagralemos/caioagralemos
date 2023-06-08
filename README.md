@@ -4,8 +4,8 @@
 </p>
 
 <p align="left"> 
-* React, HTML/CSS/JS, Python e Swift 🧑🏻‍💻<br>
-* Aprendendo Typescript, Data Structures e Flutter (Dart)! 🌱<br>
+* React, HTML/CSS/JS/TS, Python e Swift 🧑🏻‍💻<br>
+* Aprendendo Data Structures, SwiftUI e Flutter (Dart)! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
@@ -27,6 +27,7 @@
   <img align="center" alt="CaioPY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="CaioReact" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />         
   <img align="center" alt="CaioSwift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+ <img align="center" alt="CaioTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />                                                                                                                             
   <img align="center" alt="CaioVSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="CaioXCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
   <img align="center" alt="CaioWindows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
