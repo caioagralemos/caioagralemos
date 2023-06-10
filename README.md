@@ -9,10 +9,6 @@
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
-<p align="center">  
-  <img width="42%" height="195px" src=http://github-readme-stats-caioagralemos.vercel.app/api?username=caioagralemos&show_icons=true&count_private=true&hide_border=true" alt="Caio Lemos Github Stats" /> 
-</p>
-
 <div style="display: flex" align="center"><br>
   <img align="center" alt="CaioBootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="CaioC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
