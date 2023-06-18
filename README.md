@@ -5,7 +5,7 @@
 
 <p align="left"> 
 * React, HTML/CSS/JS/TS, Python e Swift 🧑🏻‍💻<br>
-* Aprendendo Data Structures, SwiftUI e Flutter (Dart)! 🌱<br>
+* Aprendendo Next.js, SwiftUI e Flutter (Dart)! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
