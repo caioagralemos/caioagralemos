@@ -4,8 +4,8 @@
 </p>
 
 <p align="left"> 
-* React, HTML/CSS/JS/TS, Python e Swift 🧑🏻‍💻<br>
-* Aprendendo Next.js, SwiftUI e Flutter (Dart)! 🌱<br>
+* Next.js, Django e Swift 🧑🏻‍💻<br>
+* Aprendendo SwiftUI e Figma! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
