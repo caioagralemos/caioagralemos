@@ -5,7 +5,7 @@
 
 <p align="left"> 
 * Next.js, Django e Swift 🧑🏻‍💻<br>
-* Aprendendo SwiftUI e Figma! 🌱<br>
+* Aprendendo SwiftUI, React Native e Figma! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
