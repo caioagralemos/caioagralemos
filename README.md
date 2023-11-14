@@ -5,7 +5,7 @@
 
 <p align="left"> 
 * Next.js, Django e Swift 🧑🏻‍💻<br>
-* Aprendendo Java! 🌱<br>
+* Aprendendo Java e R! 🌱<br>
 * Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
 </p>
 
