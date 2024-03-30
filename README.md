@@ -7,7 +7,7 @@
 
 <p align="left"> 
 * Swift Student Challenge 2024 Winner! <br>
-* Software Developer (Mobile e Fullstack) 👨🏻‍💻<br>
+* Software Developer (Mobile & Fullstack) 👨🏻‍💻<br>
 * CS Major at Universidade Federal de Alagoas 🎓<br>
 * Passionate about creation, inovation and design 📝<br>
 * Check my work at <a href="https://caioagralemos.com/en" target="_blank">caioagralemos.com</a><br>
