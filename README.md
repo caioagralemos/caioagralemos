@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/i5Uejlk.png" min-width="18%" max-width="18%" width="18%" align="right" alt="Programador">
 <p align="left"> 
-  <h1>Hey! I'm Caio 👋</h1>
+  <h1>Hello! I'm Caio 👋</h1>
 </p>
 
 <p align="left"> 
