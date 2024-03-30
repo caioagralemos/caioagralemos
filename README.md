@@ -2,16 +2,15 @@
 
 <img src="https://i.imgur.com/i5Uejlk.png" min-width="18%" max-width="18%" width="18%" align="right" alt="Programador">
 <p align="left"> 
-  <h1>Bem vindo! Eu sou o Caio 👋</h1>
+  <h1>Hey! I'm Caio 👋</h1>
 </p>
 
 <p align="left"> 
-* Vencedor do Swift Student Challenge 2024! <br>
-* Apaixonado por criatividade, inovação e design 📝<br>
-* Desenvolvedor de Software (Mobile e Fullstack) 👨🏻‍💻<br>
-* Aprendendo SASS e melhorando minhas capacidades de Front-end! 🌱<br>
-* Graduando em Ciências da Computação na Universidade Federal de Alagoas 🎓<br>
-* <a href="https://caioagralemos.com" target="_blank" style="color: white;">Visite meu portfólio!</a><br>
+* Swift Student Challenge 2024 Winner! <br>
+* Software Developer (Mobile e Fullstack) 👨🏻‍💻<br>
+* CS Major at Universidade Federal de Alagoas 🎓<br>
+* Passionate about creation, inovation and design 📝<br>
+* <a href="https://caioagralemos.com" target="_blank">Visit my portfolio!</a><br>
 </p>
 
 <div style="display: flex" align="center"><br>
