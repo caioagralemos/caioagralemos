@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-* Swift Student Challenge 2024 Winner! <br>
+* Swift Student Challenge 2024 e 2025 Winner! <br>
 * Software Developer (Mobile & Fullstack) 👨🏻‍💻<br>
 * CS Major at Universidade Federal de Alagoas 🎓<br>
 * Passionate about creation, inovation and design 📝<br>
