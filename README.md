@@ -5,9 +5,8 @@
 </p>
 
 <p align="left"> 
-* Swift Student Challenge 2024 e 2025 Winner! <br>
-* Mobile & Fullstack Development 👨🏻‍💻<br>
-* Learner at Apple Developer Academy Unina 🎓<br>
+  * Software Engineering Intern at Apple<br>
+* Swift Student Challenge 2024 e 2025 Winner<br>
 * Passionate about creation, inovation and design 📝<br>
 * Check my work at <a href="https://caioagralemos.com/" target="_blank">caioagralemos.com</a><br>
 </p>
