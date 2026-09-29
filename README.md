@@ -1,20 +1,13 @@
-<img src="https://i.imgur.com/qqEeCrq.png" style="height: 150px; width: 100vw; object-fit: cover;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/H1Ijjjx.png">
+  <img alt="Caio Agra Lemos" src="https://i.imgur.com/EWLS5al.png">
+</picture>
 
-<p align="left"> 
-  <h1>Hey! I'm Caio 👋</h1>
-</p>
+### Hey, I'm Caio 👋
 
-<p align="left"> 
-  * Software Engineering Intern at Apple<br>
-* Swift Student Challenge 2024 e 2025 Winner<br>
-* Passionate about creation, inovation and design 📝<br>
-* Check my work at <a href="https://caioagralemos.com/" target="_blank">caioagralemos.com</a><br>
-</p>
+- Software Engineering Intern at Apple, Emoji & Stickers
+- Swift Student Challenge winner, 2024 and 2025
+- Apple Developer Academy, Naples
+- 20+ shipped projects. See them at [caioagralemos.com](https://caioagralemos.com)
 
-<hr>
-<div style="display: flex" align="center">
-  <a href="https://twitter.com/caioagralemos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caioagralemos@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-lemos-9aa113218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/caioagralemos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+[Website](https://caioagralemos.com) · [LinkedIn](https://linkedin.com/in/caioagralemos) · [X](https://x.com/caioagralemos) · [Instagram](https://instagram.com/caioagralemos) · [Email](mailto:caioagralemos@live.com)
