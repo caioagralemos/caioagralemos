@@ -9,4 +9,6 @@
 - Apple Developer Academy Napoli graduate
 - 20+ shipped projects. See them at [caioagralemos.com](https://caioagralemos.com)
 
+<br>
+
 [Website](https://caioagralemos.com) · [LinkedIn](https://linkedin.com/in/caioagralemos) · [X](https://x.com/caioagralemos) · [Instagram](https://instagram.com/caioagralemos) · [Email](mailto:caioagralemos@live.com)
