@@ -3,7 +3,7 @@
   <img alt="Caio Agra Lemos" src="https://i.imgur.com/EWLS5al.png">
 </picture>
 
-## Hey, I'm Caio 👋
+# Hey, I'm Caio 👋
 
 - Software Engineering Intern at Apple, Emoji & Stickers
 - Swift Student Challenge winner, 2024 and 2025
