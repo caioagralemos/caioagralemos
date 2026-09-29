@@ -1,9 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/H1Ijjjx.png">
-  <img alt="Caio Agra Lemos" src="https://i.imgur.com/EWLS5al.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/w5Y875f.png">
+  <img alt="Hey, I'm Caio — Caio Agra Lemos" src="https://i.imgur.com/kgZYxZ9.png">
 </picture>
-
-# Hey, I'm Caio 👋
 
 - Software Engineering Intern at Apple, Emoji & Stickers
 - Swift Student Challenge winner, 2024 and 2025
